@@ -1,0 +1,13 @@
+# данные платформы и большие файлы (cache.zip лежит в Releases)
+dataset/
+cache/
+cache.zip
+
+# черновики и служебные файлы
+experiments/
+submissions/
+catboost_info/
+.claude/
+.ipynb_checkpoints/
+__pycache__/
+task.txt
